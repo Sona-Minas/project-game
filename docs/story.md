@@ -8,7 +8,7 @@ Vengeance triggers Mo's journey.
 # Main Story important events
 
 ### Part 1
-- Prologue
+- [Prologue](./missions/Prologue.md)
 - Fun Times
 - Unimaginable Event
 - Death
